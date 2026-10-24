@@ -1,0 +1,549 @@
+{
+  "schema": "blackwish-document-archive-manifest-v1",
+  "date": "2026-10-24",
+  "scope": "Partial research/reference archive, not a complete canonical Blackwish doctrine backup.",
+  "creator_director": "Brandon Groesbeck",
+  "assistance": "AI-assisted research, drafting and review; source authors and third-party contributions retain their credits.",
+  "source_identity": "Exact current source-file byte copies, including existing PDF content credentials where present. Historical receipt hashes can identify earlier renditions and are not substituted for current file hashes.",
+  "license": "CC-BY-NC-4.0 for original documentation contributions only; see LICENSE.md for boundaries.",
+  "software_included": false,
+  "files": [
+    {
+      "path": "documents/atlas_delivery_verification/Agriculture_Technology_Atlas_v3.pdf",
+      "title": "Agriculture mobility and technology networks",
+      "format": "pdf",
+      "bytes": 249017,
+      "sha256": "9e90b14e13cd0b1a5d1c1ab4d8540d903cf6e165a872887429edb207541f4b57",
+      "copy_type": "unchanged original-byte copy",
+      "known_status": "bounded reference adoption recorded in separate successor addendum; frozen original remains unchanged",
+      "license": "CC-BY-NC-4.0 for original documentation only; third-party material excluded from that grant",
+      "deployment_authority": "None granted by publication or this manifest"
+    },
+    {
+      "path": "documents/axis_language_review_20261024/master_axis_language_review.docx",
+      "title": "Master Axis endpoint language review",
+      "format": "docx",
+      "bytes": 62080,
+      "sha256": "790aeaf3b7a710b47602fb3b6977989da75b4fee279fe2ced77bd9452b065a07",
+      "copy_type": "unchanged original-byte copy",
+      "known_status": "Completed editorial review; explicitly not ratified",
+      "license": "CC-BY-NC-4.0 for original documentation only; third-party material excluded from that grant",
+      "deployment_authority": "None granted by publication or this manifest"
+    },
+    {
+      "path": "documents/axis_language_review_20261024/master_axis_language_review.pdf",
+      "title": "Master Axis endpoint language review",
+      "format": "pdf",
+      "bytes": 298452,
+      "sha256": "ec9175dd65a5d37411371d331bff5f165d00a8d96acacf58a2906205e993d5d2",
+      "copy_type": "unchanged original-byte copy",
+      "known_status": "Completed editorial review; explicitly not ratified",
+      "license": "CC-BY-NC-4.0 for original documentation only; third-party material excluded from that grant",
+      "deployment_authority": "None granted by publication or this manifest"
+    },
+    {
+      "path": "documents/blackwish_2d_animation_dossier_20261022_v1/Blackwish_2D_Animation_Research_Dossier_20261022.pdf",
+      "title": "Blackwish From 2D Scene to Finished Film",
+      "format": "pdf",
+      "bytes": 114547,
+      "sha256": "d5267324b116ef1981ec4fe4bbbee6fb0107e04306b7634f6cd0760c08ab711e",
+      "copy_type": "unchanged original-byte copy",
+      "known_status": "Ratified bounded research reference and workflow proposals; no deployment authority",
+      "license": "CC-BY-NC-4.0 for original documentation only; third-party material excluded from that grant",
+      "deployment_authority": "None granted by publication or this manifest"
+    },
+    {
+      "path": "documents/blackwish_2d_animation_dossier_20261022_v1/reviewed_source_for_pdf.md",
+      "title": "Blackwish From 2D Scene to Finished Film",
+      "format": "md",
+      "bytes": 44706,
+      "sha256": "c6234e309b3fd6633cfbdb633a3e982282984fa299b9d0e6e8852392d59c9e6d",
+      "copy_type": "unchanged original-byte copy",
+      "known_status": "Completed reviewed source; separate private dated approval record records completed guide and bounded workflow proposals ratified; no implementation or deployment.",
+      "license": "CC-BY-NC-4.0 for original documentation only; third-party material excluded from that grant",
+      "deployment_authority": "None granted by publication or this manifest"
+    },
+    {
+      "path": "documents/blackwish_3d_printing_20261023/Blackwish_3D_Printing_Research_Reference.pdf",
+      "title": "Blackwish 3D Printing Research Reference",
+      "format": "pdf",
+      "bytes": 193780,
+      "sha256": "98d42e3c43573c47651751f7a90e463b37076943724332ccaf419ba71ba850f5",
+      "copy_type": "unchanged original-byte copy",
+      "known_status": "Completed research reference; no deployment authority; reference ratification unknown",
+      "license": "CC-BY-NC-4.0 for original documentation only; third-party material excluded from that grant",
+      "deployment_authority": "None granted by publication or this manifest"
+    },
+    {
+      "path": "documents/blackwish_3d_printing_20261023/dossier_source.md",
+      "title": "Blackwish 3D Printing Research Reference",
+      "format": "md",
+      "bytes": 87707,
+      "sha256": "c305bb9dbd92af0f98e2efcb364b5c719fec66c5a038bfdd95f005c6b73ac6a1",
+      "copy_type": "unchanged original-byte copy",
+      "known_status": "Completed general research reference; not buying list or operating manual; ratification unknown.",
+      "license": "CC-BY-NC-4.0 for original documentation only; third-party material excluded from that grant",
+      "deployment_authority": "None granted by publication or this manifest"
+    },
+    {
+      "path": "documents/blackwish_advertising_20261023/blackwish_advertising_research_20261023.pdf",
+      "title": "Advertising research for audience benefit and sustainable distribution",
+      "format": "pdf",
+      "bytes": 162441,
+      "sha256": "f4a2bca233b87224d74531b232d3c8e950c62f6b0450bc30e00dfabdc0d17d80",
+      "copy_type": "unchanged original-byte copy",
+      "known_status": "Completed research reference; this report is not a ratification record. Later ratification status unknown; no deployment authority.",
+      "license": "CC-BY-NC-4.0 for original documentation only; third-party material excluded from that grant",
+      "deployment_authority": "None granted by publication or this manifest"
+    },
+    {
+      "path": "documents/blackwish_advertising_20261023/dossier.md",
+      "title": "Advertising research for audience benefit and sustainable distribution",
+      "format": "md",
+      "bytes": 63625,
+      "sha256": "56614952edb5a254dc1f119100b70bd2a44e03b22314773f40e062410d7f781f",
+      "copy_type": "unchanged original-byte copy",
+      "known_status": "Completed research and candidate strategy; not a finding that Blackwish is ready for public release; ratification unknown.",
+      "license": "CC-BY-NC-4.0 for original documentation only; third-party material excluded from that grant",
+      "deployment_authority": "None granted by publication or this manifest"
+    },
+    {
+      "path": "documents/blackwish_advertising_casebook_20261023/blackwish_advertising_casebook_20261023.pdf",
+      "title": "When advertising becomes a promise",
+      "format": "pdf",
+      "bytes": 196562,
+      "sha256": "14d999592d7fd02e427e1f0b1080910d34d8feed5e7b133a9f7cb8e359d6df83",
+      "copy_type": "unchanged original-byte copy",
+      "known_status": "Completed research casebook; this report is not a ratification record. Later ratification status unknown; no deployment authority.",
+      "license": "CC-BY-NC-4.0 for original documentation only; third-party material excluded from that grant",
+      "deployment_authority": "None granted by publication or this manifest"
+    },
+    {
+      "path": "documents/blackwish_advertising_casebook_20261023/casebook.md",
+      "title": "When advertising becomes a promise",
+      "format": "md",
+      "bytes": 78501,
+      "sha256": "80d13b1dc6adbb5c4b3c16bdc4fabe69998800f8fefea7c15e07417620c43871",
+      "copy_type": "unchanged original-byte copy",
+      "known_status": "Completed companion casebook; explicitly does not replace, ratify or deploy the earlier report; individual ratification unknown.",
+      "license": "CC-BY-NC-4.0 for original documentation only; third-party material excluded from that grant",
+      "deployment_authority": "None granted by publication or this manifest"
+    },
+    {
+      "path": "documents/blackwish_asset_generation_20261023/Blackwish_Asset_Generation_Research_Reference.pdf",
+      "title": "Blackwish Asset Generation Research Reference",
+      "format": "pdf",
+      "bytes": 216235,
+      "sha256": "446ad4844f80cafcaa289f224877876dda9d205007a8cb470324175a956025e1",
+      "copy_type": "unchanged original-byte copy",
+      "known_status": "Completed research reference; not deployment authority; reference ratification unknown",
+      "license": "CC-BY-NC-4.0 for original documentation only; third-party material excluded from that grant",
+      "deployment_authority": "None granted by publication or this manifest"
+    },
+    {
+      "path": "documents/blackwish_banking_treasury_20261022_v1/blackwish_banking_and_treasury_research_2026_10_22.pdf",
+      "title": "Blackwish Banking and Treasury Research",
+      "format": "pdf",
+      "bytes": 142814,
+      "sha256": "89c5abfe6cb6bccd4e4ca2a71a1f7ccb037833e3693ed65b568cf9050bbd13e0",
+      "copy_type": "unchanged original-byte copy",
+      "known_status": "Ratified bounded educational reference and analytical exercises; no transactions or institution authority",
+      "license": "CC-BY-NC-4.0 for original documentation only; third-party material excluded from that grant",
+      "deployment_authority": "None granted by publication or this manifest"
+    },
+    {
+      "path": "documents/blackwish_comedy_improv_20261023/Blackwish_Comedy_and_Improv_Research_Reference_20261023.pdf",
+      "title": "Blackwish Comedy and Improv Research Reference",
+      "format": "pdf",
+      "bytes": 158168,
+      "sha256": "76939a10cddb46ecd4fe08c00843da3f71af565694d46d6d718d93d452a8149e",
+      "copy_type": "unchanged original-byte copy",
+      "known_status": "Completed research-only edition; deployment not authorized; later ratification unknown in this audit",
+      "license": "CC-BY-NC-4.0 for original documentation only; third-party material excluded from that grant",
+      "deployment_authority": "None granted by publication or this manifest"
+    },
+    {
+      "path": "documents/blackwish_comedy_improv_20261023/dossier_source.md",
+      "title": "Blackwish Comedy and Improv Research Reference",
+      "format": "md",
+      "bytes": 77560,
+      "sha256": "466a0fd3fbca872246954a8789ca7fe9d2a5cd840a31134b0a903efabc09b54e",
+      "copy_type": "unchanged original-byte copy",
+      "known_status": "Completed research-only edition; artifact manifest says ratification not requested or inferred and deployment not authorized or performed. Later ratification not independently established in this review.",
+      "license": "CC-BY-NC-4.0 for original documentation only; third-party material excluded from that grant",
+      "deployment_authority": "None granted by publication or this manifest"
+    },
+    {
+      "path": "documents/blackwish_congestion_20261023/blackwish_congestion_combined.md",
+      "title": "Blackwish congestion research reference",
+      "format": "md",
+      "bytes": 72044,
+      "sha256": "c250a029ed61e305b7d8b53aa4ab93d3ce7fd9f0dddace6940947adb5b0edfb1",
+      "copy_type": "unchanged original-byte copy",
+      "known_status": "Completed educational research and bounded text analysis; policy/code/wording candidates remain subject to manual ratification; not deployed.",
+      "license": "CC-BY-NC-4.0 for original documentation only; third-party material excluded from that grant",
+      "deployment_authority": "None granted by publication or this manifest"
+    },
+    {
+      "path": "documents/blackwish_congestion_20261023/blackwish_congestion_research_reference.pdf",
+      "title": "Blackwish congestion research reference",
+      "format": "pdf",
+      "bytes": 196712,
+      "sha256": "46772e7ffcbbb36c02436bdb85fa0da6eed6624f7f966985e0f475cdbf8f4116",
+      "copy_type": "unchanged original-byte copy",
+      "known_status": "Completed research reference and optional text proposals; no deployment authority; ratification unknown",
+      "license": "CC-BY-NC-4.0 for original documentation only; third-party material excluded from that grant",
+      "deployment_authority": "None granted by publication or this manifest"
+    },
+    {
+      "path": "documents/blackwish_magical_realism_20261024/Blackwish_Magical_Realism_Formative_Research_2026-10-24.pdf",
+      "title": "Blackwish Magical Realism Formative Research",
+      "format": "pdf",
+      "bytes": 83255,
+      "sha256": "7c6c02d810968d6858839f1f178ddb5aac0bcda8af3168612e369ef5ac189a5b",
+      "copy_type": "unchanged original-byte copy",
+      "known_status": "Completed research delta; explicitly unratified",
+      "license": "CC-BY-NC-4.0 for original documentation only; third-party material excluded from that grant",
+      "deployment_authority": "None granted by publication or this manifest"
+    },
+    {
+      "path": "documents/blackwish_magical_realism_20261024/manuscript.md",
+      "title": "Blackwish Magical Realism Research Delta",
+      "format": "md",
+      "bytes": 16643,
+      "sha256": "ac5de69bbcffa2210a841025898702b0b348f40ca494caefb4c89671583efd45",
+      "copy_type": "unchanged original-byte copy",
+      "known_status": "Completed formative research; explicitly unratified, not new canon or generator change.",
+      "license": "CC-BY-NC-4.0 for original documentation only; third-party material excluded from that grant",
+      "deployment_authority": "None granted by publication or this manifest"
+    },
+    {
+      "path": "documents/blackwish_mail_internet_logistics_20261023_v1/Blackwish_Protocol_Mail_Internet_and_Related_Delivery_Services_Research_20261023.pdf",
+      "title": "Blackwish Protocol Mail Internet and Related Delivery Services Research",
+      "format": "pdf",
+      "bytes": 106297,
+      "sha256": "d739d92bbd6d7bfe6d7134335558384c956eed8187642d830ae10588b3b2715f",
+      "copy_type": "unchanged original-byte copy",
+      "known_status": "Ratified bounded educational delivery-chain reference; no shipment/account/network operations",
+      "license": "CC-BY-NC-4.0 for original documentation only; third-party material excluded from that grant",
+      "deployment_authority": "None granted by publication or this manifest"
+    },
+    {
+      "path": "documents/blackwish_mail_internet_logistics_20261023_v1/manuscript.md",
+      "title": "Blackwish Protocol Mail Internet and Related Delivery Services",
+      "format": "md",
+      "bytes": 43627,
+      "sha256": "e6de896bbdb23cce340fd829164e70d4fe04c83962d5e8130a7d15b1c35bde16",
+      "copy_type": "unchanged original-byte copy",
+      "known_status": "Original reviewed manuscript not ratified at drafting. Later three-reference addendum records mail/Internet measures with educational and text-only limits; not deployment.",
+      "license": "CC-BY-NC-4.0 for original documentation only; third-party material excluded from that grant",
+      "deployment_authority": "None granted by publication or this manifest"
+    },
+    {
+      "path": "documents/blackwish_nutrition_portions_20261023_v1/blackwish_nutrition_diet_portion_methodology_2026-10-23.pdf",
+      "title": "Blackwish Protocol Nutrition Diet and Portion Methodology",
+      "format": "pdf",
+      "bytes": 95716,
+      "sha256": "faa69820f043d872fb8fdd13643375aaf95c329700e454ab0731b1a272860d5c",
+      "copy_type": "unchanged original-byte copy",
+      "known_status": "Ratified educational nutrition reference and illustrative portion-accounting method; not personal or clinical advice",
+      "license": "CC-BY-NC-4.0 for original documentation only; third-party material excluded from that grant",
+      "deployment_authority": "None granted by publication or this manifest"
+    },
+    {
+      "path": "documents/blackwish_nutrition_portions_20261023_v1/manuscript.md",
+      "title": "Blackwish Protocol Nutrition Diet and Portion Methodology",
+      "format": "md",
+      "bytes": 40526,
+      "sha256": "094f3dbec48c0e3a19d0c1a2a8879d62e50bffd2b6d992b002ed342d532b6277",
+      "copy_type": "unchanged original-byte copy",
+      "known_status": "Original internally desk-reviewed research labeled NOT RATIFIED. Later three-reference addendum records bounded nutrition/portion reference approval, not personal intervention/deployment.",
+      "license": "CC-BY-NC-4.0 for original documentation only; third-party material excluded from that grant",
+      "deployment_authority": "None granted by publication or this manifest"
+    },
+    {
+      "path": "documents/blackwish_platform_persistence_20261023/blackwish_platform_persistence_20261023.pdf",
+      "title": "Why online platforms persist and why players stay",
+      "format": "pdf",
+      "bytes": 128377,
+      "sha256": "2cc2c8bf23d91f2015b64c64e112b3d06b2228e5cc43e004e11df70ed948abd1",
+      "copy_type": "unchanged original-byte copy",
+      "known_status": "Completed research reference; explicitly not ratified",
+      "license": "CC-BY-NC-4.0 for original documentation only; third-party material excluded from that grant",
+      "deployment_authority": "None granted by publication or this manifest"
+    },
+    {
+      "path": "documents/blackwish_platform_persistence_20261023/manuscript.md",
+      "title": "Why online platforms persist and why players stay",
+      "format": "md",
+      "bytes": 44023,
+      "sha256": "e85ef31f64029e91a0899a038d75a7c22cdd19a7765ecf607301d528af77662f",
+      "copy_type": "unchanged original-byte copy",
+      "known_status": "Completed research manuscript, dated 23 October 2026; deployment not authorized; ratification unknown.",
+      "license": "CC-BY-NC-4.0 for original documentation only; third-party material excluded from that grant",
+      "deployment_authority": "None granted by publication or this manifest"
+    },
+    {
+      "path": "documents/blackwish_sector_logistics_20261023_v1/Blackwish_Protocol_Sector_Logistics_Research_Reference_20261023.pdf",
+      "title": "Blackwish Protocol Sector Logistics Research Reference",
+      "format": "pdf",
+      "bytes": 124984,
+      "sha256": "391b8e7ba9c6671e837423da79ea31969f18b9c4a975d26cdfa5fa4ef22a8ec0",
+      "copy_type": "unchanged original-byte copy",
+      "known_status": "Ratified bounded sector-logistics educational/text reference; no business operations/compliance certification",
+      "license": "CC-BY-NC-4.0 for original documentation only; third-party material excluded from that grant",
+      "deployment_authority": "None granted by publication or this manifest"
+    },
+    {
+      "path": "documents/blackwish_three_reference_ratification_20261023_v1/Blackwish_Three_Reference_Ratification_Addendum_20261023.pdf",
+      "title": "Blackwish three reference ratification addendum",
+      "format": "pdf",
+      "bytes": 45289,
+      "sha256": "92215e5f4e3cdf768358709d24231744df112d0e2765a93b3133a8b38aa4d1b5",
+      "copy_type": "unchanged original-byte copy",
+      "known_status": "Scoped ratification receipt for nutrition, sector logistics and mail/Internet; no deployment or personal intervention",
+      "license": "CC-BY-NC-4.0 for original documentation only; third-party material excluded from that grant",
+      "deployment_authority": "None granted by publication or this manifest"
+    },
+    {
+      "path": "documents/blackwish_vehicle_research_20261022_v1/blackwish_vehicle_operation_research_2026-10-22.pdf",
+      "title": "Blackwish Protocol Vehicle Operation Research",
+      "format": "pdf",
+      "bytes": 126841,
+      "sha256": "b95030c036dddefc9508068b255456106ce9987e1187a792a3ec9ae7ee5d2fab",
+      "copy_type": "unchanged original-byte copy",
+      "known_status": "Ratified vehicle research reference and bounded text-only framework; no real operation/deployment",
+      "license": "CC-BY-NC-4.0 for original documentation only; third-party material excluded from that grant",
+      "deployment_authority": "None granted by publication or this manifest"
+    },
+    {
+      "path": "documents/blackwish_vehicle_research_20261022_v1/manuscript.md",
+      "title": "Blackwish Protocol Vehicle Operation Research",
+      "format": "md",
+      "bytes": 54993,
+      "sha256": "b56caf318b32f468afeb1ec3be08163d4e6446a234dad884711df02dab09925b",
+      "copy_type": "unchanged original-byte copy",
+      "known_status": "Original manuscript labels RESEARCH / REVIEWED / NOT RATIFIED. Separate later private dated approval record records vehicle reference and bounded text-only framework ratified; not qualification, operation or deployment.",
+      "license": "CC-BY-NC-4.0 for original documentation only; third-party material excluded from that grant",
+      "deployment_authority": "None granted by publication or this manifest"
+    },
+    {
+      "path": "documents/blackwish_vr_graphics_dossier_20261022_v1/Blackwish_VR_Graphics_Research_Dossier_20261022.pdf",
+      "title": "VR rigging vector graphics and mesh research",
+      "format": "pdf",
+      "bytes": 137855,
+      "sha256": "7700f5843fb895878a4844b9844f7c5c9f0b79fb4953be508192c625af75a9df",
+      "copy_type": "unchanged original-byte copy",
+      "known_status": "Ratified dated VR/graphics reference and bounded text-only review proposals; no implementation/device testing",
+      "license": "CC-BY-NC-4.0 for original documentation only; third-party material excluded from that grant",
+      "deployment_authority": "None granted by publication or this manifest"
+    },
+    {
+      "path": "documents/blackwish_vr_graphics_dossier_20261022_v1/reviewed_source_for_pdf.md",
+      "title": "VR rigging vector graphics and mesh research",
+      "format": "md",
+      "bytes": 54614,
+      "sha256": "67710e2a11d25b1c7bcc3b3423b7f96b782a6c2fd9be69bfa28e75c3697a212b",
+      "copy_type": "unchanged original-byte copy",
+      "known_status": "Completed reviewed research source; separate receipt records dated reference and bounded proposals ratified, no implementation/device testing/deployment.",
+      "license": "CC-BY-NC-4.0 for original documentation only; third-party material excluded from that grant",
+      "deployment_authority": "None granted by publication or this manifest"
+    },
+    {
+      "path": "documents/combined2352_delivery/Blackwish_Pigeonholing_and_Atlas_Ratification_Addendum_v1.pdf",
+      "title": "Blackwish Scoped Ratification Addendum",
+      "format": "pdf",
+      "bytes": 89572,
+      "sha256": "cb662e0ab4452b5dfcb354083ae1ebf9786c6faf40d4ca44f1db1f79b7159a4e",
+      "copy_type": "unchanged original-byte copy",
+      "known_status": "scoped additive ratification/provenance record; no deployment permission",
+      "license": "CC-BY-NC-4.0 for original documentation only; third-party material excluded from that grant",
+      "deployment_authority": "None granted by publication or this manifest"
+    },
+    {
+      "path": "documents/cp002_delivery_20261019/Blackwish_CP002_Provenance_Recovery_Reader_v1.pdf",
+      "title": "Blackwish CP002 source recovery",
+      "format": "pdf",
+      "bytes": 50159,
+      "sha256": "b0c591b1ca8804defbffa9c90096b92e4466088701211f75e1630c55c2ab6d31",
+      "copy_type": "unchanged original-byte copy",
+      "known_status": "completed CP002 inventory/recovery report; 265 files verified and 43 unlocated at report time, not a canonical doctrine itself",
+      "license": "CC-BY-NC-4.0 for original documentation only; third-party material excluded from that grant",
+      "deployment_authority": "None granted by publication or this manifest"
+    },
+    {
+      "path": "documents/earlier_research/Blackwish_Autonomous_Gap_Research_Reader_v2.pdf",
+      "title": "Blackwish gap research and evidence limits",
+      "format": "pdf",
+      "bytes": 115716,
+      "sha256": "6e207369e653270dbc599894dd22ec2d27890e45fd7d4414e15081764161f8a6",
+      "copy_type": "unchanged original-byte copy",
+      "known_status": "completed research/editorial proposal; manual ratification pending in this edition",
+      "license": "CC-BY-NC-4.0 for original documentation only; third-party material excluded from that grant",
+      "deployment_authority": "None granted by publication or this manifest"
+    },
+    {
+      "path": "documents/earlier_research/Blackwish_Mapping_Review_v4.pdf",
+      "title": "Blackwish mapping review",
+      "format": "pdf",
+      "bytes": 123889,
+      "sha256": "ecfd28307e3691cc3d88e95f645a6e60cc5cc27271daa82e732c6d1fc7fda8fd",
+      "copy_type": "unchanged original-byte copy",
+      "known_status": "completed research/editorial proposal; manual ratification pending in this edition",
+      "license": "CC-BY-NC-4.0 for original documentation only; third-party material excluded from that grant",
+      "deployment_authority": "None granted by publication or this manifest"
+    },
+    {
+      "path": "documents/nerve_delivery_verification/Nerve_Networks_and_Beneficial_Modulation_v3.pdf",
+      "title": "Nerve Networks and Beneficial Modulation",
+      "format": "pdf",
+      "bytes": 95795,
+      "sha256": "726ba1ae9308991cb4fbbab313cf102ad1c5b7b96d626d1cd52329f9dcea0f31",
+      "copy_type": "unchanged original-byte copy",
+      "known_status": "bounded reference adoption recorded in separate successor addendum; frozen original remains unchanged",
+      "license": "CC-BY-NC-4.0 for original documentation only; third-party material excluded from that grant",
+      "deployment_authority": "None granted by publication or this manifest"
+    },
+    {
+      "path": "documents/neurology_reference/Neurology_and_Autonomic_Regulation.docx",
+      "title": "Neurology and autonomic regulation",
+      "format": "docx",
+      "bytes": 68380,
+      "sha256": "24d97d74d5286eca9ad583afce050fa8459c1650f2a24cff6b18cfe554ad30db",
+      "copy_type": "unchanged original-byte copy",
+      "known_status": "completed research reference; no project revision or deployment ratified by this document",
+      "license": "CC-BY-NC-4.0 for original documentation only; third-party material excluded from that grant",
+      "deployment_authority": "None granted by publication or this manifest"
+    },
+    {
+      "path": "documents/neurology_reference/Neurology_and_Autonomic_Regulation.pdf",
+      "title": "Neurology and autonomic regulation",
+      "format": "pdf",
+      "bytes": 384028,
+      "sha256": "18331f7b8c9b9f6f2ead16f1ea5204c05b0c250ccebc5268612c52c52ef13c67",
+      "copy_type": "unchanged original-byte copy",
+      "known_status": "completed research reference; no project revision or deployment ratified by this document",
+      "license": "CC-BY-NC-4.0 for original documentation only; third-party material excluded from that grant",
+      "deployment_authority": "None granted by publication or this manifest"
+    },
+    {
+      "path": "documents/neurology_reference/neurology_reference_source.md",
+      "title": "Neurology and autonomic regulation source manuscript",
+      "format": "md",
+      "bytes": 65827,
+      "sha256": "a77c6282c6148cc74eb3747547b93d928eeb16822bd2d9328abcdb079a64e612",
+      "copy_type": "unchanged original-byte copy",
+      "known_status": "completed research reference; no project revision or deployment ratified by this document",
+      "license": "CC-BY-NC-4.0 for original documentation only; third-party material excluded from that grant",
+      "deployment_authority": "None granted by publication or this manifest"
+    },
+    {
+      "path": "documents/output/Blackwish_Business_Management_Logistics_Research_20261022.pdf",
+      "title": "Business management logistics research",
+      "format": "pdf",
+      "bytes": 66387,
+      "sha256": "1c77fd02bed8ab835919dd6af69a35a527369357c2c18fcfea6227c28c042e0e",
+      "copy_type": "unchanged original-byte copy",
+      "known_status": "bounded reference adoption recorded in separate successor addendum; frozen original remains unchanged",
+      "license": "CC-BY-NC-4.0 for original documentation only; third-party material excluded from that grant",
+      "deployment_authority": "None granted by publication or this manifest"
+    },
+    {
+      "path": "documents/output/Blackwish_Game_Film_Book_Production_Research_20261022.pdf",
+      "title": "Game film and book production",
+      "format": "pdf",
+      "bytes": 68972,
+      "sha256": "6a99a25b410751e64d55d523e24c0af3811b17b615a2219db88ef3845f053131",
+      "copy_type": "unchanged original-byte copy",
+      "known_status": "bounded reference adoption recorded in separate successor addendum; frozen original remains unchanged",
+      "license": "CC-BY-NC-4.0 for original documentation only; third-party material excluded from that grant",
+      "deployment_authority": "None granted by publication or this manifest"
+    },
+    {
+      "path": "documents/pigeonholing_delivery_verification/Blackwish_Pigeonholing_and_Unreviewed_Authority_v1.pdf",
+      "title": "Blackwish Pigeonholing and Unreviewed Authority",
+      "format": "pdf",
+      "bytes": 107303,
+      "sha256": "894cdfc22297da5fe110bdf62ae1f2f762298c82d467f96b1fdaff7641a62996",
+      "copy_type": "unchanged original-byte copy",
+      "known_status": "bounded reference adoption recorded in separate successor addendum; frozen original remains unchanged",
+      "license": "CC-BY-NC-4.0 for original documentation only; third-party material excluded from that grant",
+      "deployment_authority": "None granted by publication or this manifest"
+    },
+    {
+      "path": "documents/retirement_wealth_20261024/Retirement_Passive_Income_and_Wealth_2026.pdf",
+      "title": "Retirement Passive Income and Wealth",
+      "format": "pdf",
+      "bytes": 269374,
+      "sha256": "baf6cf7b62cc42a0145bdbc50716a5511b165cc8433217aef253a55f46b8d86b",
+      "copy_type": "unchanged original-byte copy",
+      "known_status": "Completed general educational research; project ratification unknown",
+      "license": "CC-BY-NC-4.0 for original documentation only; third-party material excluded from that grant",
+      "deployment_authority": "None granted by publication or this manifest"
+    },
+    {
+      "path": "documents/retirement_wealth_20261024/manuscript.md",
+      "title": "Retirement Passive Income and Wealth",
+      "format": "md",
+      "bytes": 71820,
+      "sha256": "79ce7a148f320a3e1cd86d6b589279400538d314aeb12a0ba6de5ca397d58e4f",
+      "copy_type": "unchanged original-byte copy",
+      "known_status": "Completed general educational financial research, dated 24 October 2026; project ratification unknown.",
+      "license": "CC-BY-NC-4.0 for original documentation only; third-party material excluded from that grant",
+      "deployment_authority": "None granted by publication or this manifest"
+    }
+  ],
+  "selection_note": "The handoff implementation-document family and the interaction reader/index/verification families from rounds one through three are omitted pending separate publication approval. This remains a selected research/reference archive, not a complete doctrine backup or complete implementation package.",
+  "omitted_implementation_material": [
+    {
+      "path": "documents/blackwish_character_workshop_handoff_20261023_v1/ADDITIVE_SCHEMA_CONTRACT.md",
+      "status": "Omitted from this release; separate publication approval pending."
+    },
+    {
+      "path": "documents/blackwish_character_workshop_handoff_20261023_v1/CONFORMANCE_SCENARIOS.md",
+      "status": "Omitted from this release; separate publication approval pending."
+    },
+    {
+      "path": "documents/handoff_package_delivery/HANDOFF_SPECIFICATION.md",
+      "status": "Omitted from this release; reproduces withheld schema material; separate publication approval pending."
+    },
+    {
+      "path": "documents/handoff_package_delivery/Blackwish_Character_Workshop_Prototype_Handoff_and_Testing_Report.pdf",
+      "status": "Handoff implementation-document family omitted pending separate publication approval."
+    },
+    {
+      "path": "documents/handoff_package_delivery/INDEPENDENT_VALIDATION_REPORT.md",
+      "status": "Handoff implementation-document family omitted pending separate publication approval."
+    }
+  ],
+  "omitted_interaction_material": [
+    {
+      "path": "documents/hundred_delivery_verification/Blackwish_100_Batches_Compact_Index_v1.pdf",
+      "status": "First hundred-batch interaction family omitted pending separate publication approval."
+    },
+    {
+      "path": "documents/hundred_delivery_verification/Blackwish_100_Batches_Reader_v1.pdf",
+      "status": "First hundred-batch interaction family omitted pending separate publication approval."
+    },
+    {
+      "path": "documents/hundred_delivery_verification/Blackwish_100_Batches_Verification_Report_v1.pdf",
+      "status": "First hundred-batch interaction family omitted pending separate publication approval."
+    },
+    {
+      "path": "documents/blackwish_r2_library_delivery_20261022_v1/Blackwish_R2_100_Batches_Compact_Index_v1.pdf",
+      "status": "Round-two interaction reader/index family omitted; the full reader reproduces a held first-round example; separate publication approval pending."
+    },
+    {
+      "path": "documents/blackwish_r2_library_delivery_20261022_v1/Blackwish_R2_100_Batches_Reader_v1.pdf",
+      "status": "Round-two interaction reader/index family omitted; the full reader reproduces a held first-round example; separate publication approval pending."
+    },
+    {
+      "path": "documents/blackwish_r3_library_delivery_20261022_v1/Blackwish_R3_20_Batches_60_Cases_Reader_v1.pdf",
+      "status": "Round-three reader/index family conservatively omitted because it develops examples from held first-round material; separate publication approval pending."
+    },
+    {
+      "path": "documents/blackwish_r3_library_delivery_20261022_v1/Blackwish_R3_20_Batches_Compact_Index_v1.pdf",
+      "status": "Round-three reader/index family conservatively omitted because it develops examples from held first-round material; separate publication approval pending."
+    }
+  ]
+}
